@@ -1,7 +1,6 @@
 - 👋 Hi, I'm @Faraoney077
 - 👀 I'm interested in coding
-- 🌱 I am currently learning python and html
-- 💞️ I want to collaborate ...
+
 - 📫 I leave my e-mail for you to reach me.. faraoney077@gmail.com
 
 <!---
